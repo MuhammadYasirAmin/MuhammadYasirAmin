@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://files.virgool.io/upload/users/594007/posts/nzkk3fzuyeas/h2q4mgtfaeco.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyasiramin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyasiramin" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyasiramin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyasiramin" /> </p>
 <p align="left"> <a href="https://twitter.com/yasiram26401737" target="blank"><img src="https://img.shields.io/twitter/follow/yasiram26401737?logo=twitter&style=for-the-badge" alt="yasiram26401737" /></a> </p>
 
 - 🔭 I’m currently working on **RSV & D&D Campaign Websites**
