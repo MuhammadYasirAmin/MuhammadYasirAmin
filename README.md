@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **RSV & D&D Campaign Websites**
 
-- 🌱 I’m currently learning **React.js & Vue.js**
+- 🌱 I’m currently learning **Vue.js, Flutter & Dart**
 
 - 💬 Ask me about **Laravel & Flutter**
 
