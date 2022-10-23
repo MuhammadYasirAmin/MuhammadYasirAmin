@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **RSV & D&D Campaign Websites**
 
-- 🌱 I’m currently learning **Vue.js, Flutter & Dart**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Laravel & Flutter**
+- 💬 Ask me about **Laravel, Vue.Js, Flutter & Dart**
 
-- 📫 How to reach me **yasiramin380@gmail.com**
+- 📫 How to reach me **yasiramin.dev**
 
 - ⚡ Fun fact **My favorite's part about my job is pitching unique advertising campaign ideas that help small businesses stand out from competitors.**
 
